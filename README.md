@@ -11,3 +11,4 @@
 |7|[Neural Search - From Prototype to Production with Jina](https://www.amazon.com/Neural-Search-Prototype-Production-learning-powered/dp/1801816824)|Neural Search 라이브러리 Jina 소개|⭐⭐|튜토리얼은 왜 안되는걸까..ㅜ|23년 1월|
 |8|[심기보의 AI 프로젝트 성공비결(20)](https://zdnet.co.kr/view/?no=20210712100550)|AI 프로젝트 기획/개발시 고려할 사항|⭐⭐⭐⭐|PM,PMO,엔지니어,개발자 모두에게 추천|23년 1월|
 |9|FastAPI를 사용한 파이썬 웹개발(출간예정)|환경설정에서 배포까지 FastAPI 사용법|⭐⭐⭐⭐|웹 프레임워크 입문자에게 추천|23년 2월|
+|10|[그림으로 이해하는 AWS구조와 기술](https://product.kyobobook.co.kr/detail/S000001834627)|AWS 기본 구성요소 및 관련 배경 지식 소개|⭐⭐⭐⭐|클라우드 입문자에게 추천|23년 3월|
