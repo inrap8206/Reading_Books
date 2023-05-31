@@ -15,5 +15,5 @@
 |11|[챗GPT 사용설명서](https://product.kyobobook.co.kr/detail/S000201025522)|프롬프트 ENG등 챗GPT 사용 노하우에 대한 실용서|⭐⭐⭐⭐|챗GPT류 책중 실용성 최고|23년 3월|
 |12|[데이터로 전문가처럼 말하기](https://product.kyobobook.co.kr/detail/S000061695655)|데이터 이해/표현/전달에 대한 기초 지식 소개|⭐⭐⭐|보고서 작성이나 데이터 시각화 경험이 없는 사회 초년생에게 |23년 4월|
 |13|[데이터 시각화와 탐색 with Power BI](https://product.kyobobook.co.kr/detail/S000200319403)|Power BI로 구현하는 데이터 시각화|⭐⭐⭐⭐|설명이 친절해서 좋았음 |23년 4월|
-|14|[린스타트업 10주년 기념판-베타리딩]|성공하는 Product를 런칭을 위한 프로세스와 방법론 설명|⭐⭐⭐⭐|개발자, PO/PM에게 적극 추천|23년 4월|
+|14|[린스타트업 10주년 기념판](https://product.kyobobook.co.kr/detail/S000202480286)|성공하는 Product를 런칭을 위한 프로세스와 방법론 설명|⭐⭐⭐⭐|개발자, PO/PM에게 적극 추천|23년 4월|
 |15|[챗GPT 거부할 수 없는 미래](https://product.kyobobook.co.kr/detail/S000201458284)|챗GPT 기술 개념, API, Azure 사용 설명|⭐⭐⭐|컴팩트하고 깔끔한 설명. 사례는 조금 부족|23년 5월|
