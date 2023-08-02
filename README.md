@@ -18,3 +18,5 @@
 |14|[린스타트업 10주년 기념판](https://product.kyobobook.co.kr/detail/S000202480286)|성공하는 Product를 런칭을 위한 프로세스와 방법론 설명|⭐⭐⭐⭐|개발자, PO/PM에게 적극 추천|23년 4월|
 |15|[챗GPT 거부할 수 없는 미래](https://product.kyobobook.co.kr/detail/S000201458284)|챗GPT 기술 개념, API, Azure 사용 설명|⭐⭐⭐|컴팩트하고 깔끔한 설명. 사례는 조금 부족|23년 5월|
 |16|[MLOps 실전 가이드](https://product.kyobobook.co.kr/detail/S000202854952)|MLOps 구현을 위한 실용서|⭐⭐⭐|실습위주 설명, 구현 코드 포함|23년 6월|
+|17|[파이썬 크래시 코스](https://product.kyobobook.co.kr/detail/S000203377358)|파이썬 초/중급자에게 강추|⭐⭐⭐⭐|실습위주 설명, 구현 코드 포함|23년 7월|
+|18|[AI전쟁](https://product.kyobobook.co.kr/detail/S000203074995)|AI 기술 개발의 동향, 전망, 철학 등|⭐⭐⭐⭐|최고 권위자의 견해를 통해 영감을 얻게됨|23년 7월|
