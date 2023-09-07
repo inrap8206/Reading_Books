@@ -20,3 +20,4 @@
 |16|[MLOps 실전 가이드](https://product.kyobobook.co.kr/detail/S000202854952)|MLOps 구현을 위한 실용서|⭐⭐⭐|실습위주 설명, 구현 코드 포함|23년 6월|
 |17|[파이썬 크래시 코스](https://product.kyobobook.co.kr/detail/S000203377358)|파이썬 초/중급자에게 강추|⭐⭐⭐⭐|실습위주 설명, 구현 코드 포함|23년 7월|
 |18|[AI전쟁](https://product.kyobobook.co.kr/detail/S000203074995)|AI 기술 개발의 동향, 전망, 철학 등|⭐⭐⭐⭐|권위자의 견해를 통해 많은 영감을 얻을수 있음|23년 7월|
+|19|[육각형개발자](https://product.kyobobook.co.kr/detail/S000203107475)|개발의 정의, 테크리더가 갖춰야할 덕목 소개|⭐⭐⭐|컴팩트한 설명 Good|23년 9월|
